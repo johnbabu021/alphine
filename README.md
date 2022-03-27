@@ -1,9 +1,10 @@
 <h1 align="center">
 <br>
-<img src="https://github.com/johnbabu021/alphine/tree/master/images/logo.svg" alt="logo" width="200" height="200" >
+<img src="images/logo.png" alt="logo" width="200" height="200" >
 
 <br><br>
-
+Alphine
+<br><br>
 
 
 </h1>
