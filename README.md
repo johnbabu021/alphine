@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-<img src="images/logo.png" alt="logo" width="200" height="200" >
+<img src="images/logo1.png" alt="logo" width="200" height="200" >
 
 <br><br>
 Alphine
