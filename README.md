@@ -1,34 +1,26 @@
-    <h1 align="center">
-    <br>
+<h1 align="center">
+<br>
+<img src="https://github.com/johnbabu021/alphine/tree/master/images/logo.svg" alt="logo" width="200" height="200" >
 
 <br><br>
-    Alphine
-    </h1>
-
-    <h4 align="center">Get the Alphine into your VS Code</h4>
-    
-    <p
-    align="center">
-    
-    
-    
-    </p>
 
 
-    ### Alphine Screenshot
-     
-     React.JS
-     ![Screenshot -Theme](/images/react.png)
+
+</h1>
 
 
-     <br>
-       
+<h4>Get the theme to your VS Code</h4>
 
-    Css
-    ![Screenshot -theme](/images/css.png)
 
-    <br>
+### Theme Screenshot
 
-    JSON
+React.JS
 
-    ![Screenshot -theme](/images/json.png)
+![Screenshot -Theme](/images/react.png)
+
+CSS
+
+![Screenshot -Theme](/images/css.png)
+
+JS 
+![Screenshot -Theme](/images/js.png)

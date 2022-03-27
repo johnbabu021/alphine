@@ -3,6 +3,19 @@
     "displayName": "alphine",
     "description": "lightweight color theme",
     "version": "0.0.1",
+    "publisher": "johnbabu021",
+    "author": {
+        "name": "JOHN BABU",
+        "email": "johnbabu021@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/johnbabu021/theme"
+    },
+    "galleryBanner": {
+        "color": "#282c34",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.54.0"
     },
