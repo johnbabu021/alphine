@@ -1,13 +1,34 @@
-# README
-## This is the README for your extension "alphine"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+    <h1 align="center">
+    <br>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<br><br>
+    Alphine
+    </h1>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+    <h4 align="center">Get the Alphine into your VS Code</h4>
+    
+    <p
+    align="center">
+    
+    
+    
+    </p>
 
-**Enjoy!**
+
+    ### Alphine Screenshot
+     
+     React.JS
+     ![Screenshot -Theme](/images/react.png)
+
+
+     <br>
+       
+
+    Css
+    ![Screenshot -theme](/images/css.png)
+
+    <br>
+
+    JSON
+
+    ![Screenshot -theme](/images/json.png)
