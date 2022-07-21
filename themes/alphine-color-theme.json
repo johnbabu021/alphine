@@ -2,10 +2,10 @@
 	"name": "alphine",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#060f2031",
-		"editor.foreground": "#5fe7ff",
-		"activityBarBadge.background": "#0d1335",
-		"sideBarTitle.foreground": "#00c3ff"
+		"editor.background": "#1f192431",
+		"editor.foreground": "#b282ff",
+		"activityBarBadge.background": "#0d2335",
+		"sideBarTitle.foreground": "#ffc400"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#415c5dd8"
+				"foreground": "#00fb2285"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#00c080"
+				"foreground": "#00c080"//tbjs is of import remove in pr
 			}
 		},
 		{
@@ -45,7 +45,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#d12d2d"
+				"foreground": "#ff5100"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#FF6C6C"
+				"foreground": "#038ae4dc"
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#3cc8ff"
+				"foreground": "#00a2ff"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#ff646b"
+				"foreground": "#92c756"
 			}
 		},
 		{
@@ -100,7 +100,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#6bf6bc"
+				"foreground": "#e2f81c"
 			}
 		},
 		{
